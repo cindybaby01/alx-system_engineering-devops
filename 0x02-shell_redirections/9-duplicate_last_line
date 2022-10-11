@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la >> ls_cwd_content
+echo -en "" | tail --lines=1 iacta >> iacta
